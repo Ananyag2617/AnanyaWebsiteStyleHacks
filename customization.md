@@ -17,9 +17,9 @@
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>*•̩̩͙✩•̩̩͙*Ananya Gaurav*•̩̩͙✩•̩̩͙*</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                TRAVEL. FOOD. NETFLIX. PIANO.
               </p>
               <a href="https://pages.github.com/" class="button"></a>
             </div>
