@@ -21,7 +21,7 @@
               <p>
                 TRAVEL. FOOD. NETFLIX. PIANO.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://github.com/Ananyag2617/AnanyaWebsiteStyleHacks" class="button"></a>
             </div>
           </article>
         </main>
